@@ -48,7 +48,7 @@ I would love a response from /u/psprint2.
 
 ______________________________________________________________________
 
-## I am a previous maintainer/contributor to `zdharma`
+## If you are a previous maintainer / contributor to `zdharma`...
 
-Great, open an issue with a link to a commit you wrote or something to prove
+Open an issue with a link to a commit you wrote or something to prove
 it, and I'll add you as a maintainer.
