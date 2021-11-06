@@ -1,7 +1,7 @@
 # Status of zinit as of 11/01/2021
 
 > [This comment](https://www.reddit.com/r/zsh/comments/qinb6j/httpsgithubcomzdharma_has_suddenly_disappeared_i/hil4oww/)
-> by me explains how this org came into existence. Copied below in case it is
+> explains how this org came into existence. Copied below in case it is
 > removed.
 
 TL;DR: I'm putting up clones of all of his tools I depend on in this org:
