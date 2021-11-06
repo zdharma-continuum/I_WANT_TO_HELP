@@ -41,11 +41,6 @@ decided to delete them."
 Archive them, resign as maintainer; I don't care. Don't delete all the source
 code on a random Thursday without any notice.
 
-Note that some of this damage is seemingly irreversible. I can’t find a way to
-access the zinit wiki source, for instance.
-
-I would love a response from /u/psprint2.
-
 ______________________________________________________________________
 
 ## If you are a previous maintainer / contributor to `zdharma`...
