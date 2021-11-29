@@ -25,8 +25,8 @@ popped up.
 **You can delete them any time you want -- at the cost of your credibility as a
 maintainer.**
 
-I don't want to depend on a source maintained by him directly. If he can't be
-trusted to not take destructive actions, a buffer (a fork) must be put in place.
+I don't want to depend on a source maintained by someone who can't be trusted to 
+not take destructive actions, so a buffer (a fork) must be put in place.
 
 I'm putting up forks of the most recent copies of the sources that I depend on
 personally (and thus have up-to-date clones of) in an organization on Github.
@@ -34,16 +34,8 @@ I'm happy to give maintainer privileges to people with a demonstrated previous
 interest/contributions to zsh / zinint / zdharma (by way of commit hashes,
 google cached GitHub issues pages, Wayback machine, etc.).
 
-I have no interest in dealing with errors like "sorry, the tools you built your
-zsh workflow on couldn't be cloned because /u/psprint2 had a mood swing and
-decided to delete them."
+I have no interest in dealing with errors like "sorry, the tools you built your 
+zsh workflow on couldn't be cloned because someone randomly deleted them."
 
 Archive them, resign as maintainer; I don't care. Don't delete all the source
 code on a random Thursday without any notice.
-
-______________________________________________________________________
-
-## If you are a previous maintainer / contributor to `zdharma`...
-
-Open an issue with a link to a commit you wrote or something to prove
-it, and I'll add you as a maintainer.
